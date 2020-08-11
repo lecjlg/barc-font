@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1597160044
+ModificationTime: 1597160596
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 0
 WinInfo: 982917 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 86
+BeginChars: 1114112 85
 
 StartChar: one
 Encoding: 49 49 0
@@ -509,15 +509,8 @@ EndSplineSet
 Comment: "Patches of shallow fog at station,+AAoA-NOT deeper than 6 feet on land"
 EndChar
 
-StartChar: uEFFD9
-Encoding: 983001 983001 13
-Width: 1000
-Flags: HW
-LayerCount: 2
-EndChar
-
 StartChar: uF0186
-Encoding: 983430 983430 14
+Encoding: 983430 983430 13
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -531,7 +524,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF0187
-Encoding: 983431 983431 15
+Encoding: 983431 983431 14
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -550,7 +543,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF0188
-Encoding: 983432 983432 16
+Encoding: 983432 983432 15
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -564,7 +557,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF0189
-Encoding: 983433 983433 17
+Encoding: 983433 983433 16
 Width: 1000
 Flags: W
 VStem: -0.149794 1000.34<644.243 798>
@@ -583,7 +576,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF0029
-Encoding: 983081 983081 18
+Encoding: 983081 983081 17
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -619,7 +612,7 @@ Comment: "More or less continuous shallow+AAoA-fog at station, NOT deeper than+A
 EndChar
 
 StartChar: uF002A
-Encoding: 983082 983082 19
+Encoding: 983082 983082 18
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -641,7 +634,7 @@ Comment: "Lightning visible, no thunder+AAoA-heard"
 EndChar
 
 StartChar: uF002B
-Encoding: 983083 983083 20
+Encoding: 983083 983083 19
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -662,7 +655,7 @@ Comment: "Precipitation within sight, but+AAoA-NOT reaching the ground"
 EndChar
 
 StartChar: uF002C
-Encoding: 983084 983084 21
+Encoding: 983084 983084 20
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -688,7 +681,7 @@ Comment: "Precipitation within sight,+AAoA-reaching the ground, but distant+AAoA
 EndChar
 
 StartChar: uF002D
-Encoding: 983085 983085 22
+Encoding: 983085 983085 21
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -715,7 +708,7 @@ Comment: "Precipitation within sight,+AAoA-reaching the ground, near to+AAoA-but
 EndChar
 
 StartChar: uF002E
-Encoding: 983086 983086 23
+Encoding: 983086 983086 22
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -743,7 +736,7 @@ Comment: "Thunder heard, but no+AAoA-precipitation at the station"
 EndChar
 
 StartChar: uF002F
-Encoding: 983087 983087 24
+Encoding: 983087 983087 23
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -767,7 +760,7 @@ Comment: "Squall(s) within sight during+AAoA-past hour"
 EndChar
 
 StartChar: uF0030
-Encoding: 983088 983088 25
+Encoding: 983088 983088 24
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -796,7 +789,7 @@ Comment: "Funnel cloud(s) within sight+AAoA-during past hour"
 EndChar
 
 StartChar: uF004E
-Encoding: 983118 983118 26
+Encoding: 983118 983118 25
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -829,7 +822,7 @@ Comment: "Drizzle (NOT freezing and NOT+AAoA-falling as showers) during past+AAo
 EndChar
 
 StartChar: uF004F
-Encoding: 983119 983119 27
+Encoding: 983119 983119 26
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -854,7 +847,7 @@ Comment: "Rain (NOT freezing and NOT+AAoA-falling as showers) during past+AAoA-h
 EndChar
 
 StartChar: uF0050
-Encoding: 983120 983120 28
+Encoding: 983120 983120 27
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -909,7 +902,7 @@ Comment: "Snow (NOT falling as showers)+AAoA-during past hour, but NOT at+AAoA-t
 EndChar
 
 StartChar: uF0051
-Encoding: 983121 983121 29
+Encoding: 983121 983121 28
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -969,7 +962,7 @@ Comment: "Rain and snow (NOT falling as+AAoA-showers) during past hour, but+AAoA
 EndChar
 
 StartChar: uF0052
-Encoding: 983122 983122 30
+Encoding: 983122 983122 29
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1006,7 +999,7 @@ Comment: "Freezing drizzle or freezing rain+AAoA(NOT falling as showers) during+
 EndChar
 
 StartChar: uF0053
-Encoding: 983123 983123 31
+Encoding: 983123 983123 30
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1041,7 +1034,7 @@ Comment: "Showers of rain during past hour,+AAoA-but NOT at time of observation"
 EndChar
 
 StartChar: uF0054
-Encoding: 983124 983124 32
+Encoding: 983124 983124 31
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1106,7 +1099,7 @@ Comment: "Showers of snow, or of rain+AAoA-and snow, during past hour,+AAoA-but 
 EndChar
 
 StartChar: uF0055
-Encoding: 983125 983125 33
+Encoding: 983125 983125 32
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1145,7 +1138,7 @@ Comment: "Showers of hail, or of hail+AAoA-and rain, during past hour,+AAoA-but 
 EndChar
 
 StartChar: uF0056
-Encoding: 983126 983126 34
+Encoding: 983126 983126 33
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1180,7 +1173,7 @@ Comment: "Fog during past hour, but+AAoA-NOT at time of observation"
 EndChar
 
 StartChar: uF0057
-Encoding: 983127 983127 35
+Encoding: 983127 983127 34
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1217,7 +1210,7 @@ Comment: "Thunderstorm (with or without+AAoA-precipitation) during past hour,+AA
 EndChar
 
 StartChar: uF0075
-Encoding: 983157 983157 36
+Encoding: 983157 983157 35
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1264,7 +1257,7 @@ Comment: "Slight or moderate dust storm or+AAoA-sand storm, has decreased+AAoA-d
 EndChar
 
 StartChar: uF0076
-Encoding: 983158 983158 37
+Encoding: 983158 983158 36
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1306,7 +1299,7 @@ Comment: "Slight or moderate dust storm or+AAoA-sand storm, no appreciable+AAoA-
 EndChar
 
 StartChar: uF0077
-Encoding: 983159 983159 38
+Encoding: 983159 983159 37
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1353,7 +1346,7 @@ Comment: "Slight or moderate dust storm+AAoA-or sand storm, has increased+AAoA-d
 EndChar
 
 StartChar: uF0078
-Encoding: 983160 983160 39
+Encoding: 983160 983160 38
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1415,7 +1408,7 @@ Comment: "Severe dust storm or sand+AAoA-storm, has decreased during+AAoA-past h
 EndChar
 
 StartChar: uF007A
-Encoding: 983162 983162 40
+Encoding: 983162 983162 39
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1477,7 +1470,7 @@ Comment: "Severe dust storm or sand storm,+AAoA-has increased during past hour"
 EndChar
 
 StartChar: uF0079
-Encoding: 983161 983161 41
+Encoding: 983161 983161 40
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1534,7 +1527,7 @@ Comment: "Severe dust storm or sand+AAoA-storm, no appreciable change+AAoA-durin
 EndChar
 
 StartChar: uF007B
-Encoding: 983163 983163 42
+Encoding: 983163 983163 41
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1566,7 +1559,7 @@ Comment: "Slight or moderate drifting+AAoA-snow, generally low"
 EndChar
 
 StartChar: uF007C
-Encoding: 983164 983164 43
+Encoding: 983164 983164 42
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1611,7 +1604,7 @@ Comment: "Heavy drifting snow,+AAoA-generally low"
 EndChar
 
 StartChar: uF007D
-Encoding: 983165 983165 44
+Encoding: 983165 983165 43
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1643,7 +1636,7 @@ Comment: "Slight or moderate drifting+AAoA-snow, generally high"
 EndChar
 
 StartChar: uF007E
-Encoding: 983166 983166 45
+Encoding: 983166 983166 44
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1688,7 +1681,7 @@ Comment: "Heavy drifting snow,+AAoA-generally high"
 EndChar
 
 StartChar: uF009C
-Encoding: 983196 983196 46
+Encoding: 983196 983196 45
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1724,7 +1717,7 @@ Comment: "Fog at distance at time of+AAoA-observation, but NOT at station+AAoA-d
 EndChar
 
 StartChar: uF009D
-Encoding: 983197 983197 47
+Encoding: 983197 983197 46
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1760,7 +1753,7 @@ Comment: "Fog in patches"
 EndChar
 
 StartChar: uF009E
-Encoding: 983198 983198 48
+Encoding: 983198 983198 47
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1796,7 +1789,7 @@ Comment: "Fog, sky discernible, has+AAoA-become thinner during past hour+AAoA"
 EndChar
 
 StartChar: uF009F
-Encoding: 983199 983199 49
+Encoding: 983199 983199 48
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1827,7 +1820,7 @@ Comment: "Fog, sky NOT discernable,+AAoA-has become thinner during+AAoA-past hou
 EndChar
 
 StartChar: uF00A0
-Encoding: 983200 983200 50
+Encoding: 983200 983200 49
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1858,7 +1851,7 @@ Comment: "Fog, sky discernible, no+AAoA-appreciable change during+AAoA-past hour
 EndChar
 
 StartChar: uF00A1
-Encoding: 983201 983201 51
+Encoding: 983201 983201 50
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1884,7 +1877,7 @@ Comment: "Fog, sky NOT discernible, no+AAoA-appreciable change during+AAoA-past 
 EndChar
 
 StartChar: uF00A2
-Encoding: 983202 983202 52
+Encoding: 983202 983202 51
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1920,7 +1913,7 @@ Comment: "Fog, sky discernible, has+AAoA-begun or become thicker+AAoA-during pas
 EndChar
 
 StartChar: uF00A3
-Encoding: 983203 983203 53
+Encoding: 983203 983203 52
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -1951,7 +1944,7 @@ Comment: "Fog, sky NOT discernible,+AAoA-has begun or become+AAoA-thicker during
 EndChar
 
 StartChar: uF00A4
-Encoding: 983204 983204 54
+Encoding: 983204 983204 53
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -1986,7 +1979,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF00A5
-Encoding: 983205 983205 55
+Encoding: 983205 983205 54
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2026,7 +2019,7 @@ EndSplineSet
 EndChar
 
 StartChar: uF00C3
-Encoding: 983235 983235 56
+Encoding: 983235 983235 55
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2050,7 +2043,7 @@ Comment: "intemittent drizzle (NOT+AAoA-freezing) slight at time of+AAoA-observa
 EndChar
 
 StartChar: uF00C4
-Encoding: 983236 983236 57
+Encoding: 983236 983236 56
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2087,7 +2080,7 @@ Comment: "Continuous drizzle (NOT+AAoA-freezing) slight at time of+AAoA-observat
 EndChar
 
 StartChar: uF00C5
-Encoding: 983237 983237 58
+Encoding: 983237 983237 57
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2124,7 +2117,7 @@ Comment: "Intermittent drizzle (NOT+AAoA-freezing) moderate at time+AAoA-of obse
 EndChar
 
 StartChar: uF00C6
-Encoding: 983238 983238 59
+Encoding: 983238 983238 58
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2174,7 +2167,7 @@ Comment: "Continuous drizzle (NOT+AAoA-freezing), moderate at time+AAoA-of obser
 EndChar
 
 StartChar: uF00C7
-Encoding: 983239 983239 60
+Encoding: 983239 983239 59
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2224,7 +2217,7 @@ Comment: "Intermittent drizzle (NOT+AAoA-freezing), heavy at time of+AAoA-observ
 EndChar
 
 StartChar: uF00C8
-Encoding: 983240 983240 61
+Encoding: 983240 983240 60
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2287,7 +2280,7 @@ Comment: "Continuous drizzle (NOT+AAoA-freeing), thick at time of+AAoA-observati
 EndChar
 
 StartChar: uF00C9
-Encoding: 983241 983241 62
+Encoding: 983241 983241 61
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2328,7 +2321,7 @@ Comment: "Slight freezing drizzle"
 EndChar
 
 StartChar: uF00CA
-Encoding: 983242 983242 63
+Encoding: 983242 983242 62
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2382,7 +2375,7 @@ Comment: "Moderate or thick freezing drizzle"
 EndChar
 
 StartChar: uF00CB
-Encoding: 983243 983243 64
+Encoding: 983243 983243 63
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2411,7 +2404,7 @@ Comment: "Drizzle and rain, slight "
 EndChar
 
 StartChar: uF00CC
-Encoding: 983244 983244 65
+Encoding: 983244 983244 64
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2453,7 +2446,7 @@ Comment: "Drizzle and rain, moderate or heavy"
 EndChar
 
 StartChar: uF00EA
-Encoding: 983274 983274 66
+Encoding: 983274 983274 65
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2469,7 +2462,7 @@ Comment: "intemittent rain (NOT freezing)+AAoA-slight at time of observatiion"
 EndChar
 
 StartChar: uF00F0
-Encoding: 983280 983280 67
+Encoding: 983280 983280 66
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -2502,7 +2495,7 @@ Comment: "Slight freezing rain "
 EndChar
 
 StartChar: uF00EB
-Encoding: 983275 983275 68
+Encoding: 983275 983275 67
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2523,7 +2516,7 @@ Comment: "Continuous rain (NOT freezing)+AAoA-slight at time of observation"
 EndChar
 
 StartChar: uF00EC
-Encoding: 983276 983276 69
+Encoding: 983276 983276 68
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2544,7 +2537,7 @@ Comment: "Intermittent rain (NOT freezing)+AAoA-moderate at time of observation"
 EndChar
 
 StartChar: uF00ED
-Encoding: 983277 983277 70
+Encoding: 983277 983277 69
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2570,7 +2563,7 @@ Comment: "Continuous rain (NOT freezing),+AAoA-moderate at time of observation"
 EndChar
 
 StartChar: uF00EE
-Encoding: 983278 983278 71
+Encoding: 983278 983278 70
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2596,7 +2589,7 @@ Comment: "Intermittent rain (NOT freezing),+AAoA-heavy at time of observation"
 EndChar
 
 StartChar: uF00EF
-Encoding: 983279 983279 72
+Encoding: 983279 983279 71
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2627,7 +2620,7 @@ Comment: "Continuous rain (NOT freeing),+AAoA-heavy at time of observation"
 EndChar
 
 StartChar: uF00F1
-Encoding: 983281 983281 73
+Encoding: 983281 983281 72
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2665,7 +2658,7 @@ Comment: "Moderate or heavy freezing rain"
 EndChar
 
 StartChar: uF00F2
-Encoding: 983282 983282 74
+Encoding: 983282 983282 73
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -2716,7 +2709,7 @@ Comment: "Rain or drizzle and snow, slight"
 EndChar
 
 StartChar: uF00F3
-Encoding: 983283 983283 75
+Encoding: 983283 983283 74
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2802,7 +2795,7 @@ Comment: "Rain or drizzle and snow, moderate+AAoA-or heavy"
 EndChar
 
 StartChar: uF0117
-Encoding: 983319 983319 76
+Encoding: 983319 983319 75
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -2842,7 +2835,7 @@ Comment: "Ice needles (with or without fog)"
 EndChar
 
 StartChar: uF0116
-Encoding: 983318 983318 77
+Encoding: 983318 983318 76
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -2993,7 +2986,7 @@ Comment: "Continuous fall of snowflakes,+AAoA-heavy at time of observation"
 EndChar
 
 StartChar: uF0111
-Encoding: 983313 983313 78
+Encoding: 983313 983313 77
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -3039,7 +3032,7 @@ Comment: "Intermittent fall of snowfalkes,+AAoA-sllight at time of observation"
 EndChar
 
 StartChar: uF0112
-Encoding: 983314 983314 79
+Encoding: 983314 983314 78
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -3120,7 +3113,7 @@ Comment: "Continuous fall of snowflakes,+AAoA-slight at time of observation"
 EndChar
 
 StartChar: uF0113
-Encoding: 983315 983315 80
+Encoding: 983315 983315 79
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -3201,7 +3194,7 @@ Comment: "Intermittent fall of snowflakes,+AAoA-moderate at time of observation"
 EndChar
 
 StartChar: uF0114
-Encoding: 983316 983316 81
+Encoding: 983316 983316 80
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -3317,7 +3310,7 @@ Comment: "Continuous fall of snowflakes,+AAoA-moderate at time of observation"
 EndChar
 
 StartChar: uF0115
-Encoding: 983317 983317 82
+Encoding: 983317 983317 81
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -3433,7 +3426,7 @@ Comment: "Intermittent fall of snowflakes,+AAoA-heavy at time of observation"
 EndChar
 
 StartChar: uF0118
-Encoding: 983320 983320 83
+Encoding: 983320 983320 82
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -3466,7 +3459,7 @@ Comment: "Granular snow (with or without+AAoA-fog"
 EndChar
 
 StartChar: uF0119
-Encoding: 983321 983321 84
+Encoding: 983321 983321 83
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -3511,7 +3504,7 @@ Comment: "Isolated starlike snow+AAoA-crystals (with or without fog)"
 EndChar
 
 StartChar: uF011A
-Encoding: 983322 983322 85
+Encoding: 983322 983322 84
 Width: 1000
 Flags: H
 LayerCount: 2
