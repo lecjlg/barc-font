@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1597151682
+ModificationTime: 1597151830
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 0
 WinInfo: 982839 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 43
+BeginChars: 1114112 44
 
 StartChar: one
 Encoding: 49 49 0
@@ -1366,7 +1366,7 @@ EndChar
 StartChar: uF0078
 Encoding: 983160 983160 39
 Width: 1000
-Flags: H
+Flags: HO
 LayerCount: 2
 Fore
 SplineSet
@@ -1484,6 +1484,7 @@ SplineSet
  890.3125 360.615234375 l 1
  832.749023438 403.796875 l 1
 EndSplineSet
+Comment: "Severe dust storm or sand storm,+AAoA-has increased during past hour"
 EndChar
 
 StartChar: uF0079
@@ -1540,6 +1541,7 @@ SplineSet
  775.3125 360.615234375 l 1
  717.749023438 403.796875 l 1
 EndSplineSet
+Comment: "Severe dust storm or sand+AAoA-storm, no appreciable change+AAoA-during past hour"
 EndChar
 
 StartChar: uF007B
@@ -1571,6 +1573,52 @@ SplineSet
  456.586914062 377.635742188 l 1
  456.586914062 650.36328125 l 1
 EndSplineSet
+Comment: "Slight or moderate drifting+AAoA-snow, generally low"
+EndChar
+
+StartChar: uF007C
+Encoding: 983164 983164 43
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+474.586914062 654.36328125 m 1
+ 529.131835938 654.36328125 l 1
+ 529.131835938 414.377929688 l 1
+ 752.108398438 414.377929688 l 1
+ 696.390625 456.174804688 l 1
+ 707.328125 470.734375 l 1
+ 862.477539062 354.36328125 l 1
+ 707.328125 237.9921875 l 1
+ 696.390625 252.551757812 l 1
+ 752.108398438 294.348632812 l 1
+ 529.131835938 294.348632812 l 1
+ 529.131835938 118 l 1
+ 571 118 l 1
+ 524.55078125 48.326171875 l 1
+ 501.859375 14.2705078125 l 1
+ 432.71875 118 l 1
+ 474.586914062 118 l 1
+ 474.586914062 294.348632812 l 1
+ 192.768554688 294.348632812 l 1
+ 192.768554688 312.53125 l 1
+ 474.586914062 312.53125 l 1
+ 474.586914062 396.1953125 l 1
+ 192.768554688 396.1953125 l 1
+ 192.768554688 414.377929688 l 1
+ 474.586914062 414.377929688 l 1
+ 474.586914062 654.36328125 l 1
+774.586914062 397.544921875 m 1
+ 774.586914062 396.1953125 l 1
+ 529.131835938 396.1953125 l 1
+ 529.131835938 312.53125 l 1
+ 774.586914062 312.53125 l 1
+ 774.586914062 311.181640625 l 1
+ 832.150390625 354.36328125 l 1
+ 774.586914062 397.544921875 l 1
+EndSplineSet
+Comment: "Heavy drifting snow,+AAoA-generally low"
 EndChar
 EndChars
 EndSplineFont
