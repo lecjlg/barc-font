@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 982917 39 14
+WinInfo: 982956 39 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 85
@@ -1976,6 +1976,7 @@ SplineSet
  190.63671875 16 l 1
  190.63671875 70.5458984375 l 1
 EndSplineSet
+Comment: "Fog, depositing rime, sky+AAoA-discernible"
 EndChar
 
 StartChar: uF00A5
@@ -2016,12 +2017,13 @@ SplineSet
  613.223632812 357.454101562 l 1
  392.413085938 357.454101562 l 1
 EndSplineSet
+Comment: "Fog, depositing rime, kky+AAoA-NOT dicernible"
 EndChar
 
 StartChar: uF00C3
 Encoding: 983235 983235 55
 Width: 1000
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
