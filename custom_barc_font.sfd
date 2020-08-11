@@ -1865,6 +1865,7 @@ SplineSet
  176.63671875 345.454101562 l 1
  176.63671875 400 l 1
 EndSplineSet
+Comment: "Fog, sky discernible, no+AAoA-appreciable change during+AAoA-past hour"
 EndChar
 
 StartChar: uF00A1
@@ -1890,6 +1891,7 @@ SplineSet
  182.63671875 363.454101562 l 1
  182.63671875 418 l 1
 EndSplineSet
+Comment: "Fog, sky NOT discernible, no+AAoA-appreciable change during+AAoA-past hour"
 EndChar
 
 StartChar: uF00A2
@@ -1925,6 +1927,7 @@ SplineSet
  230.817382812 345.454101562 l 1
  230.817382812 400 l 1
 EndSplineSet
+Comment: "Fog, sky discernible, has+AAoA-begun or become thicker+AAoA-during past hour"
 EndChar
 
 StartChar: uF00A3
@@ -1955,6 +1958,7 @@ SplineSet
  246.817382812 345.454101562 l 1
  246.817382812 400 l 1
 EndSplineSet
+Comment: "Fog, sky NOT discernible,+AAoA-has begun or become+AAoA-thicker during past hour"
 EndChar
 EndChars
 EndSplineFont
