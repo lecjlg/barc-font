@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1597144474
+ModificationTime: 1597144574
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 0
 WinInfo: 982839 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 34
+BeginChars: 1114112 35
 
 StartChar: one
 Encoding: 49 49 0
@@ -1153,6 +1153,41 @@ SplineSet
  546.454101562 728.908203125 l 1
 EndSplineSet
 Comment: "Showers of hail, or of hail+AAoA-and rain, during past hour,+AAoA-but NOT at time of observation"
+EndChar
+
+StartChar: uF0056
+Encoding: 983126 983126 34
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+132.454101562 509.454101562 m 5
+ 768.818359375 509.454101562 l 5
+ 768.818359375 454.908203125 l 5
+ 132.454101562 454.908203125 l 5
+ 132.454101562 509.454101562 l 5
+132.454101562 336.7265625 m 5
+ 768.818359375 336.7265625 l 5
+ 768.818359375 282.181640625 l 5
+ 132.454101562 282.181640625 l 5
+ 132.454101562 336.7265625 l 5
+132.454101562 164 m 5
+ 768.818359375 164 l 5
+ 768.818359375 109.454101562 l 5
+ 132.454101562 109.454101562 l 5
+ 132.454101562 164 l 5
+732.454101562 754.908203125 m 5
+ 887 754.908203125 l 5
+ 887 -136 l 5
+ 732.454101562 -136 l 5
+ 732.454101562 -81.455078125 l 5
+ 832.454101562 -81.455078125 l 5
+ 832.454101562 700.36328125 l 5
+ 732.454101562 700.36328125 l 5
+ 732.454101562 754.908203125 l 5
+EndSplineSet
+Comment: "Fog during past hour, but+AAoA-NOT at time of observation"
 EndChar
 EndChars
 EndSplineFont
