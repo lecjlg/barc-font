@@ -763,6 +763,7 @@ SplineSet
  501.66796875 568.842773438 l 1
  265.375 679.602539062 l 1
 EndSplineSet
+Comment: "Squall(s) within sight during+AAoA-past hour"
 EndChar
 
 StartChar: uF0030
@@ -791,6 +792,7 @@ SplineSet
  508.241210938 646.065429688 l 5
  663 781.505859375 l 5
 EndSplineSet
+Comment: "Funnel cloud(s) within sight+AAoA-during past hour"
 EndChar
 
 StartChar: uF004E
