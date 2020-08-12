@@ -3738,7 +3738,7 @@ EndChar
 StartChar: uF013C
 Encoding: 983356 983356 89
 Width: 1000
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3808,6 +3808,7 @@ SplineSet
  576.16796875 647.30859375 536.24609375 607.38671875 487 607.38671875 c 0
  437.75390625 607.38671875 397.83203125 647.30859375 397.83203125 696.553710938 c 0
 EndSplineSet
+Comment: "Moderate or heavy shower(s) of rain and snow mized"
 EndChar
 EndChars
 EndSplineFont
