@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1597321649
+ModificationTime: 1597323489
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,10 +47,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 983229 39 14
+WinInfo: 983151 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 111
+BeginChars: 1114112 112
 
 StartChar: one
 Encoding: 49 49 0
@@ -5198,6 +5198,113 @@ SplineSet
  639 324 l 5
  639 374 l 5
  747 274 l 5
+EndSplineSet
+EndChar
+
+StartChar: uF024E
+Encoding: 983630 983630 111
+Width: 1000
+Flags: HWO
+LayerCount: 3
+Fore
+SplineSet
+220 572 m 1
+ 311 572 l 1
+ 311 541 l 1
+ 235 541 l 1
+ 235 480 l 1
+ 205 480 l 1
+ 205 556 l 1
+ 220 556 l 1
+ 220 572 l 1
+341 572 m 1
+ 432 572 l 1
+ 432 541 l 1
+ 341 541 l 1
+ 341 572 l 1
+462 572 m 1
+ 509 572 l 1
+ 509 541 l 1
+ 462 541 l 1
+ 462 572 l 1
+205 449 m 1
+ 235 449 l 1
+ 235 359 l 1
+ 205 359 l 1
+ 205 449 l 1
+802 387 m 1
+ 832 387 l 1
+ 832 337 l 1
+ 802 337 l 1
+ 802 387 l 1
+205 329 m 1
+ 235 329 l 1
+ 235 238 l 1
+ 205 238 l 1
+ 205 329 l 1
+802 306 m 1
+ 832 306 l 1
+ 832 216 l 1
+ 802 216 l 1
+ 802 306 l 1
+205 208 m 1
+ 235 208 l 1
+ 235 117 l 1
+ 205 117 l 1
+ 205 208 l 1
+802 185 m 1
+ 832 185 l 1
+ 832 95 l 1
+ 802 95 l 1
+ 802 185 l 1
+205 87 m 1
+ 235 87 l 1
+ 235 41 l 1
+ 251 41 l 1
+ 251 11 l 1
+ 205 11 l 1
+ 205 87 l 1
+802 64 m 1
+ 832 64 l 1
+ 832 11 l 1
+ 765 11 l 1
+ 765 41 l 1
+ 802 41 l 1
+ 802 64 l 1
+281 41 m 1
+ 371 41 l 1
+ 371 11 l 1
+ 281 11 l 1
+ 281 41 l 1
+402 41 m 1
+ 492 41 l 1
+ 492 11 l 1
+ 402 11 l 1
+ 402 41 l 1
+523 41 m 1
+ 613 41 l 1
+ 613 11 l 1
+ 523 11 l 1
+ 523 41 l 1
+644 41 m 1
+ 734 41 l 1
+ 734 11 l 1
+ 644 11 l 1
+ 644 41 l 1
+764 434 m 0
+ 764 504 708 560 639 560 c 0
+ 569 560 513 504 513 434 c 0
+ 513 364 569 308 639 308 c 0
+ 708 308 764 364 764 434 c 0
+796 434 m 0
+ 796 347 726 277 639 277 c 0
+ 603 277 570 289 544 308 c 1
+ 372 137 l 1
+ 338 171 l 1
+ 510 343 l 1
+ 492 369 482 400 482 434 c 0
+ 482 521 552 591 639 591 c 0
+ 726 591 796 521 796 434 c 0
 EndSplineSet
 EndChar
 EndChars
