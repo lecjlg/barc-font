@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1597332609
+ModificationTime: 1601391125
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,6 +37,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
@@ -46,10 +47,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 983229 39 14
+WinInfo: 983151 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 125
+BeginChars: 1114112 126
 
 StartChar: one
 Encoding: 49 49 0
@@ -1001,7 +1002,7 @@ SplineSet
  490.454101562 736.63671875 l 1
  490.454101562 791.181640625 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Snow (NOT falling as showers)+AAoA-during past hour, but NOT at+AAoA-time of observation"
 EndChar
 
@@ -1062,7 +1063,7 @@ SplineSet
  494.454101562 763.63671875 l 1
  494 818 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Rain and snow (NOT falling as+AAoA-showers) during past hour, but+AAoA-NOT at time of observation"
 EndChar
 
@@ -1206,7 +1207,7 @@ SplineSet
  580 714 l 1
  580 769 l 1xf8
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Showers of snow, or of rain+AAoA-and snow, during past hour,+AAoA-but NOT at time of observation"
 EndChar
 
@@ -5092,7 +5093,7 @@ SplineSet
  225.27734375 282.209960938 l 1
  293.692382812 373.331054688 402.2890625 432.510742188 524.99609375 432.510742188 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Undo"
 EndChar
 
@@ -5115,7 +5116,7 @@ SplineSet
  774.720703125 282.209960938 l 1
  706.305664062 373.331054688 597.708984375 432.510742188 475.001953125 432.510742188 c 0
 EndSplineSet
-Validated: 524297
+Validated: 9
 Comment: "Redo"
 EndChar
 
@@ -5147,7 +5148,7 @@ SplineSet
  593.599609375 481.599609375 537.599609375 537.599609375 468 537.599609375 c 0
  398.400390625 537.599609375 342.400390625 481.599609375 342.400390625 412 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF024C
@@ -5187,7 +5188,7 @@ SplineSet
  88 426 l 1
  158 426 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF024D
@@ -5400,7 +5401,7 @@ SplineSet
  580 256 613 244 649 244 c 0
  736 244 806 314 806 401 c 0
 EndSplineSet
-Validated: 524297
+Validated: 9
 Comment: "Mouse wheel zoom tool"
 EndChar
 
@@ -5438,7 +5439,7 @@ SplineSet
  606 121 l 1
  676 121 l 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 Comment: "Box add tool"
 EndChar
 
@@ -5509,7 +5510,7 @@ SplineSet
  377 237 l 1
  318 296 l 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 Comment: "Freehand drawing tool"
 EndChar
 
@@ -5591,7 +5592,7 @@ SplineSet
  581.344726562 51.48046875 l 1
  713.344726562 417.120117188 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Polygon edit tool"
 EndChar
 
@@ -5660,7 +5661,7 @@ SplineSet
  363.98828125 -1.591796875 l 1
  283.614257812 -1.591796875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "High Pressure icon"
 EndChar
 
@@ -5680,7 +5681,7 @@ SplineSet
  707.3125 6.408203125 l 1
  327.814453125 6.408203125 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Low Pressure Icon"
 EndChar
 
@@ -5726,7 +5727,7 @@ SplineSet
  450.90625 333.015625 448 333 445 333 c 4
  383 333 286 396.776367188 286 417 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Widespread dust in suspension+AAoA-in the air, NOT raised by wind,+AAoA-at time of observation"
 EndChar
 
@@ -5840,7 +5841,7 @@ SplineSet
  701.759765625 324.28515625 609.591796875 356.393554688 507.486328125 356.393554688 c 0
  505.705078125 356.393554688 504.10546875 356.407226562 502.705078125 356.393554688 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "Cumulonimbus symbol  Cb having a clearly fibrous (cirriform) top,+AAoA-often anvil-shaped, with or without Cu,+AAoA-Sc, St or scud"
 EndChar
 
@@ -5906,7 +5907,7 @@ SplineSet
  551.278320312 238.91015625 491.711914062 259.661132812 425.724609375 259.661132812 c 0
  424.573242188 259.661132812 423.5390625 259.670898438 422.634765625 259.661132812 c 0
 EndSplineSet
-Validated: 524297
+Validated: 9
 Comment: "CB Storms decaying"
 EndChar
 
@@ -5972,8 +5973,42 @@ SplineSet
  551.278320312 238.91015625 491.711914062 259.661132812 425.724609375 259.661132812 c 0
  424.573242188 259.661132812 423.5390625 259.670898438 422.634765625 259.661132812 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "CB storms growing"
+EndChar
+
+StartChar: uF01B4
+Encoding: 983476 983476 125
+Width: 29687
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+514 305 m 0
+ 514 250 502 200 478 155 c 0
+ 454 109 422 74 381 50 c 0
+ 354 32 322 20 288 12 c 0
+ 254 5 209 1 153 1 c 2
+ -2 1 l 1
+ -2 611 l 1
+ 151 611 l 2
+ 211 611 258 607 293 598 c 0
+ 328 590 358 578 382 563 c 0
+ 424 537 456 502 479 459 c 0
+ 503 416 514 365 514 305 c 0
+429 307 m 0
+ 429 355 421 395 404 428 c 0
+ 388 460 363 486 330 505 c 0
+ 306 519 280 528 253 533 c 0
+ 226 539 194 542 156 542 c 2
+ 80 542 l 1
+ 80 70 l 1
+ 156 70 l 2
+ 195 70 229 73 258 79 c 0
+ 287 85 314 95 338 111 c 0
+ 369 130 391 156 406 188 c 0
+ 422 219 429 259 429 307 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
