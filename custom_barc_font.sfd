@@ -5980,7 +5980,7 @@ EndChar
 StartChar: uF01B4
 Encoding: 983476 983476 125
 Width: 29687
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
@@ -6009,6 +6009,7 @@ SplineSet
  369 130 391 156 406 188 c 0
  422 219 429 259 429 307 c 0
 EndSplineSet
+Comment: "Tropical Depression"
 EndChar
 EndChars
 EndSplineFont
