@@ -37,7 +37,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
@@ -311,6 +310,7 @@ SplineSet
  450.90625 333.015625 448 333 445 333 c 0
  383 333 286 396.776367188 286 417 c 1
 EndSplineSet
+Validated: 524289
 Comment: "Widespread dust in suspension+AAoA-in the air, NOT raised by wind,+AAoA-at time of observation"
 EndChar
 
@@ -5980,7 +5980,9 @@ EndChar
 StartChar: uF01B4
 Encoding: 983476 983476 125
 Width: 29687
-Flags: HWO
+Flags: W
+HStem: 1 69<80 300.65> 542 69<80 297.889>
+VStem: -2 82<70 542> 429 85<191.425 421.264>
 LayerCount: 3
 Fore
 SplineSet
@@ -6009,6 +6011,7 @@ SplineSet
  369 130 391 156 406 188 c 0
  422 219 429 259 429 307 c 0
 EndSplineSet
+Validated: 1
 Comment: "Tropical Depression"
 EndChar
 EndChars
