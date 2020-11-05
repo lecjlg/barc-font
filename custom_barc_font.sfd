@@ -6018,7 +6018,7 @@ EndChar
 StartChar: uF01D4
 Encoding: 983508 983508 126
 Width: 1000
-Flags: W
+Flags: WO
 HStem: 4 1<441 443> 483 1<323 324> 487 38<361.302 502.064> 488 1<405 445> 523 1<408.824 457.428>
 VStem: 266 41<289.597 433.949> 323 1<483 484> 440 2<3 4> 541 1<233 235> 597 1<314.387 404>
 LayerCount: 3
@@ -6176,7 +6176,7 @@ SplineSet
  455 486 451 487 446 487 c 0xe7c0
 EndSplineSet
 Validated: 37
-Comment: "Typhoon (level1)"
+Comment: "Hurricane"
 EndChar
 
 StartChar: uF01D5
@@ -7742,7 +7742,7 @@ EndChar
 StartChar: uF01FE
 Encoding: 983550 983550 135
 Width: 1000
-Flags: HO
+Flags: H
 LayerCount: 3
 Fore
 SplineSet
