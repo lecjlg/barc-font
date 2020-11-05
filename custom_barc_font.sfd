@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 983034 39 14
+WinInfo: 983229 39 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 136
@@ -6359,6 +6359,7 @@ SplineSet
  545.62109375 280.578125 l 1
 EndSplineSet
 Validated: 524329
+Comment: "Category 1 - Very dangerous winds will produce some damage"
 EndChar
 
 StartChar: uF01D6
@@ -6551,6 +6552,7 @@ SplineSet
  556.001953125 280.578125 l 1
 EndSplineSet
 Validated: 524329
+Comment: "Category 2 - Extremely dangerous winds will cause extensive damage"
 EndChar
 
 StartChar: uF01D7
@@ -6763,6 +6765,7 @@ SplineSet
  532.2265625 373.810546875 536.501953125 371.24609375 540.00390625 368.15234375 c 0
 EndSplineSet
 Validated: 524329
+Comment: "Category 3 - Devastating damage will occur"
 EndChar
 
 StartChar: uF01D8
@@ -6946,6 +6949,7 @@ SplineSet
  509.711914062 351.295898438 l 1
 EndSplineSet
 Validated: 524329
+Comment: "Category 4 - Catastrophic damage will occur"
 EndChar
 
 StartChar: uF01D9
@@ -7145,6 +7149,7 @@ SplineSet
  552.74609375 357.892578125 554.537109375 349.016601562 554.537109375 338.349609375 c 0
 EndSplineSet
 Validated: 524329
+Comment: "Category 5 - Catastrophic damage will occur"
 EndChar
 
 StartChar: uF01FB
@@ -7344,6 +7349,7 @@ SplineSet
  895.990234375 319.215820312 902.749023438 326.828125 907.227539062 336.2734375 c 0
  911.787109375 345.71875 914.06640625 357.525390625 914.06640625 371.693359375 c 0
 EndSplineSet
+Comment: "Tropical Depression"
 EndChar
 
 StartChar: uF01FC
@@ -7554,6 +7560,7 @@ SplineSet
  892.9375 375.560546875 903.115234375 370.146484375 909.955078125 362.8984375 c 0
  916.793945312 355.653320312 920.21484375 345.515625 920.21484375 332.487304688 c 0
 EndSplineSet
+Comment: "Tropical Storm"
 EndChar
 
 StartChar: uF01FD
@@ -7729,12 +7736,13 @@ SplineSet
  790.748046875 462.442382812 l 1
  790.748046875 440.9453125 l 1
 EndSplineSet
+Comment: "Typhoon"
 EndChar
 
 StartChar: uF01FE
 Encoding: 983550 983550 135
 Width: 1000
-Flags: H
+Flags: HO
 LayerCount: 3
 Fore
 SplineSet
@@ -7939,6 +7947,7 @@ SplineSet
  933.243164062 462.442382812 l 1
  933.243164062 440.9453125 l 1
 EndSplineSet
+Comment: "Super Typhoon"
 EndChar
 EndChars
 EndSplineFont
