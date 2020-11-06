@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1604657128
+ModificationTime: 1604659629
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,10 +47,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 983151 39 14
+WinInfo: 983229 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 141
+BeginChars: 1114112 144
 
 StartChar: one
 Encoding: 49 49 0
@@ -7999,7 +7999,7 @@ EndChar
 StartChar: uF0224
 Encoding: 983588 983588 138
 Width: 1000
-Flags: H
+Flags: HO
 LayerCount: 3
 Fore
 SplineSet
@@ -8018,6 +8018,7 @@ SplineSet
  443.096679688 -94 l 5
  56 -94.7744140625 l 5
 EndSplineSet
+Comment: "Pseudo cold front"
 EndChar
 
 StartChar: uF0225
@@ -8045,6 +8046,7 @@ SplineSet
  442.920898438 -92.4599609375 l 5
  58 -94 l 5
 EndSplineSet
+Comment: "Pseudo warm front"
 EndChar
 
 StartChar: uF0226
@@ -8073,6 +8075,94 @@ SplineSet
  513.994140625 121.08203125 l 5
  649.5 -64.1171875 l 5
 EndSplineSet
+Comment: "Squall line"
+EndChar
+
+StartChar: uF0227
+Encoding: 983591 983591 141
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+140 130 m 5
+ 842 130 l 5
+ 842 -56 l 5
+ 842 -120 l 5
+ 842 -128 l 5
+ 140 -128 l 5
+ 140 -124 l 5
+ 140 -56 l 5
+ 140 58 l 5
+ 140 130 l 5
+180 58 m 5
+ 180 -56 l 5
+ 802 -56 l 5
+ 802 58 l 5
+ 180 58 l 5
+EndSplineSet
+Comment: "Quatorial Trough "
+EndChar
+
+StartChar: uF0228
+Encoding: 983592 983592 142
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+140 129 m 1
+ 212.115234375 129 l 1
+ 769.884765625 129 l 1
+ 842 129 l 1
+ 842 -57 l 1
+ 842 -121 l 1
+ 842 -129 l 1
+ 769.884765625 -129 l 1
+ 212.115234375 -129 l 1
+ 140 -129 l 1
+ 140 -125 l 1
+ 140 -57 l 1
+ 140 57 l 1
+ 140 129 l 1
+212.115234375 57 m 1
+ 212.115234375 -57 l 1
+ 769.884765625 -57 l 1
+ 769.884765625 57 l 1
+ 212.115234375 57 l 1
+EndSplineSet
+Comment: "Monsoon Trough"
+EndChar
+
+StartChar: uF0229
+Encoding: 983593 983593 143
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+424.8203125 165.236328125 m 5
+ 321.568359375 0 l 5
+ 281.079101562 25.30078125 l 5
+ 384.331054688 190.537109375 l 5
+ 424.8203125 165.236328125 l 5
+649.870117188 165.236328125 m 5
+ 546.618164062 0 l 5
+ 506.129882812 25.30078125 l 5
+ 609.380859375 190.537109375 l 5
+ 649.870117188 165.236328125 l 5
+394.129882812 -25.30078125 m 5
+ 434.619140625 -0.0009765625 l 5
+ 537.87109375 -165.237304688 l 5
+ 497.381835938 -190.538085938 l 5
+ 394.129882812 -25.30078125 l 5
+612.130859375 -25.3017578125 m 5
+ 652.620117188 -0.0009765625 l 5
+ 755.87109375 -165.237304688 l 5
+ 715.381835938 -190.538085938 l 5
+ 612.130859375 -25.3017578125 l 5
+EndSplineSet
+Comment: "Convergence"
 EndChar
 EndChars
 EndSplineFont
