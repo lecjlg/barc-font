@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596818005
-ModificationTime: 1604659629
+ModificationTime: 1604661419
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,7 +37,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
@@ -47,10 +46,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 983229 39 14
+WinInfo: 983151 39 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 144
+BeginChars: 1114112 146
 
 StartChar: one
 Encoding: 49 49 0
@@ -7958,7 +7957,8 @@ EndChar
 StartChar: uF0222
 Encoding: 983586 983586 136
 Width: 1000
-Flags: H
+HStem: -28.3965 58.8135<284.882 526.068 674.835 722.587>
+VStem: 526.068 58.8135<-122 -28.3965 30.417 124.023> 673.711 50<-23.7874 25.8109>
 LayerCount: 3
 Fore
 SplineSet
@@ -7977,13 +7977,15 @@ SplineSet
  723.7109375 -12.794921875 712.517578125 -23.98828125 698.7109375 -23.98828125 c 4
  684.903320312 -23.98828125 673.7109375 -12.794921875 673.7109375 1.01171875 c 4
 EndSplineSet
+Validated: 524289
 Comment: "Upper trough"
 EndChar
 
 StartChar: uF0223
 Encoding: 983587 983587 137
 Width: 1000
-Flags: H
+HStem: 1 21G<391 612>
+VStem: 391 221<1 335>
 LayerCount: 3
 Fore
 SplineSet
@@ -7993,13 +7995,14 @@ SplineSet
  391 1 l 1
  391 335 l 1
 EndSplineSet
+Validated: 1
 Comment: "Dry Intrusion "
 EndChar
 
 StartChar: uF0224
 Encoding: 983588 983588 138
 Width: 1000
-Flags: H
+HStem: -22.6465 47.7441<499.628 626.372 700.628 827.372>
 LayerCount: 3
 Fore
 SplineSet
@@ -8018,41 +8021,43 @@ SplineSet
  443.096679688 -94 l 5
  56 -94.7744140625 l 5
 EndSplineSet
+Validated: 524289
 Comment: "Pseudo cold front"
 EndChar
 
 StartChar: uF0225
 Encoding: 983589 983589 139
 Width: 1000
-Flags: H
+HStem: -94 194<150.132 348.094> -22.6465 47.7441<503.628 630.372 704.628 831.372>
 LayerCount: 3
 Fore
 SplineSet
-503.627929688 -22.646484375 m 5
+503.627929688 -22.646484375 m 5x40
  503.627929688 25.09765625 l 5
  630.372070312 25.09765625 l 5
  630.372070312 -22.646484375 l 5
- 503.627929688 -22.646484375 l 5
+ 503.627929688 -22.646484375 l 5x40
 704.627929688 -22.646484375 m 5
  704.627929688 25.09765625 l 5
  831.372070312 25.09765625 l 5
  831.372070312 -22.646484375 l 5
  704.627929688 -22.646484375 l 5
-58 -94 m 5
+58 -94 m 5x80
  58 -90.5361328125 l 6
  58 -63.9765625 65.3134765625 100 245.071289062 100 c 6
  250.845703125 100 l 6
  434.836914062 96.5361328125 442.920898438 -60.896484375 442.920898438 -88.2265625 c 6
  442.920898438 -92.4599609375 l 5
- 58 -94 l 5
+ 58 -94 l 5x80
 EndSplineSet
+Validated: 524289
 Comment: "Pseudo warm front"
 EndChar
 
 StartChar: uF0226
 Encoding: 983590 983590 140
 Width: 1000
-Flags: H
+HStem: -23.6465 47.7441<205.628 332.372 666.628 793.372>
 LayerCount: 3
 Fore
 SplineSet
@@ -8075,13 +8080,15 @@ SplineSet
  513.994140625 121.08203125 l 5
  649.5 -64.1171875 l 5
 EndSplineSet
+Validated: 524289
 Comment: "Squall line"
 EndChar
 
 StartChar: uF0227
 Encoding: 983591 983591 141
 Width: 1000
-Flags: H
+HStem: -128 72<180 802> 58 72<180 802>
+VStem: 140 40<-56 58> 802 40<-56 58>
 LayerCount: 3
 Fore
 SplineSet
@@ -8101,13 +8108,15 @@ SplineSet
  802 58 l 5
  180 58 l 5
 EndSplineSet
+Validated: 1
 Comment: "Quatorial Trough "
 EndChar
 
 StartChar: uF0228
 Encoding: 983592 983592 142
 Width: 1000
-Flags: H
+HStem: -129 72<212.115 769.885> 57 72<212.115 769.885>
+VStem: 140 72.1152<-57 57> 769.885 72.1152<-57 57>
 LayerCount: 3
 Fore
 SplineSet
@@ -8131,13 +8140,14 @@ SplineSet
  769.884765625 57 l 1
  212.115234375 57 l 1
 EndSplineSet
+Validated: 524289
 Comment: "Monsoon Trough"
 EndChar
 
 StartChar: uF0229
 Encoding: 983593 983593 143
 Width: 1000
-Flags: H
+HStem: -20.001 20G<402.612 447.117 620.614 665.117> 0 21G<289.562 334.066 514.613 559.116>
 LayerCount: 3
 Fore
 SplineSet
@@ -8162,7 +8172,56 @@ SplineSet
  715.381835938 -190.538085938 l 5
  612.130859375 -25.3017578125 l 5
 EndSplineSet
+Validated: 524289
 Comment: "Convergence"
+EndChar
+
+StartChar: uF01FF
+Encoding: 983551 983551 144
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+140 131 m 5
+ 842 131 l 5
+ 842 59 l 5
+ 524 59 l 5
+ 524 -55 l 5
+ 838.943359375 -55 l 5
+ 838.943359375 -127 l 5
+ 524 -127 l 5
+ 451.884765625 -127 l 5
+ 136.943359375 -127 l 5
+ 136.943359375 -55 l 5
+ 451.884765625 -55 l 5
+ 451.884765625 59 l 5
+ 140 59 l 5
+ 140 131 l 5
+EndSplineSet
+Comment: "Non active monsoon trough"
+EndChar
+
+StartChar: uF0200
+Encoding: 983552 983552 145
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+529.7890625 202.44921875 m 5
+ 560.76171875 158.21484375 l 5
+ 375.2265625 28.30078125 l 5
+ 710.453125 28.30078125 l 5
+ 710.453125 -25.69921875 l 5
+ 375.2265625 -25.69921875 l 5
+ 560.76171875 -155.61328125 l 5
+ 529.7890625 -199.84765625 l 5
+ 281.080078125 -25.69921875 l 5
+ 281.080078125 28.30078125 l 5
+ 529.7890625 202.44921875 l 5
+EndSplineSet
+Comment: "Low level jet"
 EndChar
 EndChars
 EndSplineFont
